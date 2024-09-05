@@ -9,6 +9,49 @@
 
 
 
+myXVAL = 10
+myxval = 7
+
+print (myXVAL)
+
+name = "Chuck"
+number = 100
+newNumber = "100"
+
+print (number/2)
+#Casting Example
+print(int(newNumber)/2)
+
+myFLoat = 3.53
+
+num1=100
+num2=75
+num3=976
+
+avg = (num1 + num2 + num3)/3
+
+print (f"Average: {avg}")
+print (avg)
+print ("Average ", avg)
+print("AVerage " + str(avg))
+
+
+beds = 4
+bath = 3
+address = "123 Maple Street"
+city = "Folsom"
+zip = 95630
+rent = 6500
+
+print(f"House for rent at {address} in {city} ({zip})")
+print(f"\t{beds} bedrooms, {bath} bathrooms")
+print(f"\trent is ${rent}/month")
+
+
+
+#File path example
+print("I have a file loacted at: C:\\users\\myname\\unnatiyagnik\\Docume...")
+
 ## Live Demo ##
 #
 # Casing
